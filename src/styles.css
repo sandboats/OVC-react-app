@@ -1,0 +1,13 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+
+/* table borders */
+table, td{
+    border: 1px solid #dfe2e5;
+    padding: 6px 13px;
+    border-spacing: 10px;
+    border-collapse: collapse;
+}
